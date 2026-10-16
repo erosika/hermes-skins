@@ -1,0 +1,98 @@
+# ✿ﾟ*:・ﾟ✧ Pink Kawaii Skin for Hermes Agent ✧ﾟ・:*ﾟ✿
+# A dreamy pink aesthetic ~ cute, soft, and sparkling
+
+name: kawaii-pink
+description: "Dreamy pink kawaii ✿ soft pastels, sparkles, and cute faces"
+
+# ── Colors ──────────────────────────────────────────────────────────────────
+colors:
+  # Banner panel
+  banner_border: "#FF69B4"       # Hot pink border
+  banner_title: "#FFB7D5"        # Soft baby pink title
+  banner_accent: "#FF85A2"       # Rose accent for section headers
+  banner_dim: "#C76B8E"          # Muted mauve for separators
+  banner_text: "#FFF0F5"         # Lavender blush body text
+
+  # UI elements
+  ui_accent: "#FF69B4"           # Hot pink accent
+  ui_label: "#DDA0DD"            # Plum labels
+  ui_ok: "#FFB7D5"               # Soft pink success
+  ui_error: "#FF6B8A"            # Coral pink error
+  ui_warn: "#FFAFD7"             # Light pink warning
+
+  # Input area
+  prompt: "#FFF0F5"              # Lavender blush prompt
+  input_rule: "#FF69B4"          # Hot pink rule
+
+  # Response box
+  response_border: "#FFB7D5"     # Baby pink border
+
+  # Session display
+  session_label: "#FF85A2"       # Rose session label
+  session_border: "#C76B8E"      # Muted mauve session border
+
+# ── Spinner ─────────────────────────────────────────────────────────────────
+spinner:
+  waiting_faces:
+    - "(◕ᴗ◕✿)"
+    - "(˶ᵔ ᵕ ᵔ˶)"
+    - "(✿◠‿◠)"
+    - "(⸝⸝ᵕᴗᵕ⸝⸝)"
+    - "(ᵔᴗᵔ)"
+
+  thinking_faces:
+    - "(◕‿◕✿)"
+    - "(˶˃ ᵕ ˂˶)"
+    - "(✧ω✧)"
+    - "(⁎⁍̴̛ᴗ⁍̴̛⁎)"
+    - "(≧◡≦)"
+
+  thinking_verbs:
+    - "daydreaming about"
+    - "sprinkling sparkles on"
+    - "doodling hearts around"
+    - "collecting flowers for"
+    - "baking something sweet for"
+    - "folding an origami crane for"
+    - "tying ribbons around"
+    - "adding glitter to"
+
+  wings:
+    - ["✿ﾟ", "ﾟ✿"]
+    - ["♡ﾟ", "ﾟ♡"]
+    - ["✧ﾟ", "ﾟ✧"]
+    - ["⋆ﾟ", "ﾟ⋆"]
+
+# ── Branding ────────────────────────────────────────────────────────────────
+branding:
+  agent_name: "Hermes Agent"
+  welcome: "˗ˏˋ ꒰ welcome~! ꒱ type your message or /help for commands ˎˊ˗"
+  goodbye: "bai bai~! ♡ see you soon ✿"
+  response_label: " ✿ Hermes "
+  prompt_symbol: "✿ ❯ "
+  help_header: "(◕ᴗ◕✿) Available Commands"
+
+# ── Tool Output ─────────────────────────────────────────────────────────────
+tool_prefix: "┊"
+
+# ── Banner Art ──────────────────────────────────────────────────────────────
+banner_logo: |
+  [bold #FFB7D5]██╗  ██╗███████╗██████╗ ███╗   ███╗███████╗███████╗       █████╗  ██████╗ ███████╗███╗   ██╗████████╗[/]
+  [bold #FF85A2]██║  ██║██╔════╝██╔══██╗████╗ ████║██╔════╝██╔════╝      ██╔══██╗██╔════╝ ██╔════╝████╗  ██║╚══██╔══╝[/]
+  [#FF69B4]███████║█████╗  ██████╔╝██╔████╔██║█████╗  ███████╗█████╗███████║██║  ███╗█████╗  ██╔██╗ ██║   ██║[/]
+  [#FF85A2]██╔══██║██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══╝  ╚════██║╚════╝██╔══██║██║   ██║██╔══╝  ██║╚██╗██║   ██║[/]
+  [#FFB7D5]██║  ██║███████╗██║  ██║██║ ╚═╝ ██║███████╗███████║      ██║  ██║╚██████╔╝███████╗██║ ╚████║   ██║[/]
+  [#FFCDE1]╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝      ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝[/]
+
+banner_hero: |
+  [#FFCDE1]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#FFB7D5]⠀⠀⠀⠀⠀⠀⠀⣠⣾⠿⠛⠉⠉⠛⠿⣷⣄⠀⠀⠀⠀⠀⠀⠀[/]
+  [#FF85A2]⠀⠀⠀⠀⠀⢀⣾⠟⠁⠀⠀✿⠀⠀⠀⠈⠻⣷⡀⠀⠀⠀⠀⠀[/]
+  [#FF69B4]⠀⠀⠀⠀⠀⣿⠏⠀⠀♡⠀⠀⠀♡⠀⠀⠀⠹⣿⠀⠀⠀⠀⠀[/]
+  [#FF69B4]⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀[/]
+  [#FF85A2]⠀⠀⠀⠀⠀⢿⣧⠀⠀⠀⠀✧⠀⠀⠀⠀⠀⣼⡿⠀⠀⠀⠀⠀[/]
+  [#FFB7D5]⠀⠀⠀⠀⠀⠈⢿⣷⣄⡀⠀⠀⠀⠀⢀⣠⣾⡿⠁⠀⠀⠀⠀⠀[/]
+  [#FFCDE1]⠀⠀⠀⠀⠀⠀⠀⠙⠻⠿⣶⣶⣶⠿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#FF69B4]⠀⠀⠀⠀⠀⠀⠀✿⠀♡⠀✿⠀♡⠀✿⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#DDA0DD]⠀⠀⠀⠀⠀⠀⠀⠀♡⠀✿⠀♡⠀✿⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [dim #C76B8E]⠀⠀⠀⠀⠀⠀⠀dreamy & kawaii⠀⠀⠀⠀⠀⠀⠀⠀[/]
